@@ -1,0 +1,1 @@
+Face Tracking is an implementation of facial recognition, detection of facial attributes (age, gender, emotion and race) for python. The repository provides a script to run Face Info with the webcam or by entering the path of an image. This implementation allows recognition of multiple faces and the registration of new users for facial recognition.
